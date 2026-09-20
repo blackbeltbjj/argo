@@ -60,6 +60,47 @@ together with associated statistical and oceanographic products.
 
 The notebook preserves the principal exploratory, computational and visualisation workflow developed during the project.
 
+
+## Selected Scientific Visualisations
+
+The figures below are preserved outputs from the original Southern Ocean observational-analysis workflow.
+
+### Southern Ocean Observational Analysis
+
+<p align="center">
+  <img src="images/southern_ocean_observational_analysis.png"
+       alt="Southern Ocean observational analysis using Argo and animal-borne observations"
+       width="88%">
+</p>
+
+<p align="center">
+  <em>Southern Ocean observational analysis using complementary Argo profiling-float and animal-borne oceanographic observations.</em>
+</p>
+
+### Vertical Profile Analysis
+
+<p align="center">
+  <img src="images/southern_ocean_profile_analysis.png"
+       alt="Southern Ocean vertical-profile analysis"
+       width="82%">
+</p>
+
+<p align="center">
+  <em>Vertical-profile analysis illustrating the processing and comparison of Southern Ocean observational data.</em>
+</p>
+
+### Gridded Observational Analysis
+
+<p align="center">
+  <img src="images/southern_ocean_gridded_analysis.png"
+       alt="Southern Ocean gridded observational analysis"
+       width="58%">
+</p>
+
+<p align="center">
+  <em>Example of a gridded observational product generated within the Southern Ocean analysis workflow.</em>
+</p>
+
 ## Project History and Contributions
 
 This repository is a fork of the original University of Auckland Centre for eResearch repository:

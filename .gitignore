@@ -102,3 +102,6 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Temporary notebook figure extraction
+extracted_notebook_figures/
